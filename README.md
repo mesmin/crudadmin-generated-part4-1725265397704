@@ -1,1 +1,3 @@
-# crudadmin-generated-part4-1725265397704
+# Generated CRUD Application
+
+This project was generated using the CRUD Generator tool.
